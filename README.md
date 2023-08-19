@@ -1,1 +1,1 @@
-# store_sales_prediction
+# store_sales_prediction_analysis
